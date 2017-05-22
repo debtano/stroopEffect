@@ -1,0 +1,32 @@
+REFERENCES
+
+Stroop effect definition : https://en.wikipedia.org/wiki/Stroop_effect
+I follow Lesson 26, L10a, t-Tests (Keyboards)
+http://www.graphpad.com/quickcalcs/pValue2/
+http://support.minitab.com/en-us/minitab/17/topic-library/basic-statistics-and-graphs/hypothesis-tests/basics/example-of-a-hypothesis-test/
+
+
+The statistical test that you choose is appropriate "two tails dependent t-test".
+Please expand the answer to justify also the reason for using the t-test in this
+ case. The justification should consider the small sample size ( smaller than 30)
+  and the sample distribution (can we assume the sample is normal? ).
+
+A hypothesis test is a statistical test that is used to determine whether there
+ is enough evidence in a sample of data to infer that a certain condition is true
+  for the entire population.
+
+Usually the null hypothesis is a statement of "no effect" or "no difference".
+The alternative hypothesis is the statement you want to be able to conclude is true.
+
+significance level 0.05
+
+
+    Ho: μ = μ0
+    H1: μ < μ0 (a lower-tailed test) or
+    H1: μ > μ0 (a upper-tailed test) or
+    H1: μ ≠ μ0 (a two-tailed test)
+
+Please expand the answer to justify also the reason for using the t-test in this case.
+ The justification should consider the
+              small sample size ( smaller than 30) and the
+              sample distribution (can we assume the sample is normal? ).
